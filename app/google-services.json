@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602327421360",
+    "project_id": "teacherconnect-10105",
+    "storage_bucket": "teacherconnect-10105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602327421360:android:9c4736620663d8dcc00675",
+        "android_client_info": {
+          "package_name": "com.example.teacherconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Cronlf16-wH5ayZNAcrSrrYLwYJs_Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
